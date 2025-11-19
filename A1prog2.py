@@ -1,0 +1,8 @@
+a=int(input("enter 1st number : "))
+b=int(input("enter 2nd number : "))
+print("Sum : " ,a+b)
+print("Diffrence : " ,a-b)
+print("Product : " ,a*b)
+print("division : " ,a/b)
+print("remainder : " ,a%b)
+print("power : " ,a**b)
